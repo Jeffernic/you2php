@@ -1,7 +1,7 @@
 <?php
 $gl=(isset($_COOKIE['gl']) && $_COOKIE['gl'])?$_COOKIE['gl']:'HK';
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCjSpc90W81GoukPDdTD2Q3BufT44M__Ik');
+define('APIKEY', 'AIzaSyCq88_ZmRL_b64Tqwpr-kyHFBHlnL2E2hU');
 define('GJ_CODE', $gl);
 define('SITE_NAME', 'You2be');
 define('TITLENAME', 'Youtoolbe');
