@@ -1,10 +1,10 @@
 <?php
 $gl=(isset($_COOKIE['gl']) && $_COOKIE['gl'])?$_COOKIE['gl']:'HK';
 define('ROOT_PART', Root_part());
-define('APIKEY', '填写你的GOOGLE API KEY');
+define('APIKEY', 'AIzaSyCjSpc90W81GoukPDdTD2Q3BufT44M__Ik');
 define('GJ_CODE', $gl);
-define('SITE_NAME', '网站名称');
-define('TITLENAME', '标题名称');
+define('SITE_NAME', 'You2be');
+define('TITLENAME', 'Youtoolbe');
 define('EN2DEKEY', '0090909i604wkkfkak');
-define('EMAIL', '你的邮箱');
+define('EMAIL', 'o23610856@gmail.com');
 ?>
